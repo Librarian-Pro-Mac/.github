@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="https://www.koingosw.com/products/librarianpro/screenshots/screenshot01.jpg" alt="Librarian Pro — personal library and collection management for macOS" width="780"/>
+  <img src="https://www.koingosw.com/products/librarianpro/screenshots/headshot.jpg" alt="Librarian Pro — personal library and collection management for macOS" width="780"/>
 </p>
 
 ---
